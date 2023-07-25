@@ -4,8 +4,8 @@ This repository cotains lab work as part of the Machine Learning Coursework.
 
 ## Assignments:
 
-* [Linear Regression]
+* [Linear Regression](./1-linear-regression/notes/)
 
-## Topics
+## Notebooks
 
-* [Linear Regression](./1-linear-regression/)
+* [Linear Regression](./1-linear-regression/code/)
